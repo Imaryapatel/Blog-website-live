@@ -132,7 +132,7 @@ p{
 
 /* site title */
 main .site-title{
-    background: url('../Background-image.png');
+    background: url('Background-image.png');
     background-size: cover;
     height: 110vh;
     display: flex;
@@ -159,7 +159,7 @@ main .site-title .btn:hover{
 
 /* blog carousel */
 main .blog{
-    background: url('../Abract01.png');
+    background: url('Abract01.png');
     background-repeat: no-repeat;
     background-position: right;
     height: 100vh;
